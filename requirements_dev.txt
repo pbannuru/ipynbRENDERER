@@ -1,0 +1,11 @@
+ipywidgets
+notebook
+ensure
+py-youtube
+
+# dev requirements
+pytest
+tox
+black # for formatting
+flake8
+mypy
