@@ -5,9 +5,9 @@ with open("README.md","r",encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "DL-CNN"
+REPO_NAME = "ipynbRENDERER"
 AUTHOR_USER_NAME = "pbannuru"
-SRC_REPO = "DL-CNN"
+SRC_REPO = "ipynbRENDERER"
 AUTHOR_EMAIL = "pbannuru@gmail.com"
 
 setuptools.setup(

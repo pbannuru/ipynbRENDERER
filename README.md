@@ -1,1 +1,1 @@
-# DEEP LEARNING CNN classifier project
+# ipynbRENDERER python package
