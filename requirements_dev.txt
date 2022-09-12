@@ -9,3 +9,4 @@ tox
 black # for formatting
 flake8
 mypy
+-e .

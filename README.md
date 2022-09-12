@@ -1,1 +1,1 @@
-# IPYNB renderer python package project
+# DEEP LEARNING CNN classifier project
